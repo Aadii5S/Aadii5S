@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aadii5S
+- 👋 Hi, I’m @Aadii
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ... App and web developing 
 - 👽 I'm interested in Nothing 
